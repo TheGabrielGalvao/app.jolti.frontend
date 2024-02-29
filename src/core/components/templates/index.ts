@@ -1,0 +1,1 @@
+export { OnBoardingLayout } from "./OnBoardingLayout";
